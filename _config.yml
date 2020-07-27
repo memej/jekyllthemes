@@ -1,10 +1,10 @@
 permalink: /:year:month:day/:title
-url: #Your url here
+url: memej.github.io
 baseurl: /project
 
 # variables
-name: Your Site Name
-description: Your description here
+name: 유지나 데스크톱 해킹
+description: 코딩 기록
 google_verification: null
 
 
@@ -23,3 +23,5 @@ kramdown:
   input: GFM
   syntax_highlighter_opts:
     disable : true
+    
+    
